@@ -1,2 +1,2 @@
 # isGPTdown
-a telegram bot that notifies you when ChatGPT is down
+a simple telegram bot that notifies you when ChatGPT is down
